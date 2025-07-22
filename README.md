@@ -1,0 +1,1 @@
+# terraform-aft-global-customizations
